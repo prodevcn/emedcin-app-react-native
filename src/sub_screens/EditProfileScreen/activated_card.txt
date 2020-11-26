@@ -1,0 +1,18 @@
+activated_card
+biometric_pin_status
+cka_status
+cka_expiry_date
+card_locked
+card_transaction_count
+cluster_id
+grow_initial_premium_method
+has_ordered_card
+nps
+product_flag
+rsp_flag
+rsp_method
+sa_first_topup_value
+sa_lasttransaction_date
+sa_account_value
+signup_channel
+sio_payment_ method

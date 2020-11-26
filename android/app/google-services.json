@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1038697004616",
+    "firebase_url": "https://emedcin.firebaseio.com",
+    "project_id": "emedcin",
+    "storage_bucket": "emedcin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038697004616:android:f4518853a21dbbe25fa27d",
+        "android_client_info": {
+          "package_name": "com.emedcin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038697004616-qc4qtorla9aea69bcbqjbm043nq0ptar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkIX23-SgNdWmwK8JXCZO4NZ5jnDCG-Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038697004616-qc4qtorla9aea69bcbqjbm043nq0ptar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
