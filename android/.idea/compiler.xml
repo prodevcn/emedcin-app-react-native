@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="emedcin.app" target="1.8" />
+      <module name="emedcin.react-native-agora" target="1.8" />
+      <module name="emedcin.react-native-community_async-storage" target="1.8" />
+      <module name="emedcin.react-native-community_blur" target="1.8" />
+      <module name="emedcin.react-native-community_checkbox" target="1.8" />
+      <module name="emedcin.react-native-community_masked-view" target="1.8" />
+      <module name="emedcin.react-native-community_netinfo" target="1.8" />
+      <module name="emedcin.react-native-document-picker" target="1.8" />
+      <module name="emedcin.react-native-firebase-push-notifications" target="1.8" />
+      <module name="emedcin.react-native-firebase_app" target="1.8" />
+      <module name="emedcin.react-native-firebase_auth" target="1.8" />
+      <module name="emedcin.react-native-firebase_storage" target="1.8" />
+      <module name="emedcin.react-native-gesture-handler" target="1.8" />
+      <module name="emedcin.react-native-image-crop-picker" target="1.8" />
+      <module name="emedcin.react-native-image-picker" target="1.8" />
+      <module name="emedcin.react-native-image-resizer" target="1.8" />
+      <module name="emedcin.react-native-permissions" target="1.8" />
+      <module name="emedcin.react-native-reanimated" target="1.8" />
+      <module name="emedcin.react-native-safe-area-context" target="1.8" />
+      <module name="emedcin.react-native-screens" target="1.8" />
+      <module name="emedcin.react-native-splash-screen" target="1.8" />
+      <module name="emedcin.react-native-ui-lib" target="1.8" />
+      <module name="emedcin.react-native-vector-icons" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

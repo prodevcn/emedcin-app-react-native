@@ -47,7 +47,7 @@ export function register(userInfo) {
   return (dispatch) =>
     new Promise((resolve, reject) => {
       const params = userInfo;
-      const url = GLOBAL.BASE_URL + 'user/register';
+      const url = GLOBAL.BASE_URL + '/auth/register';
       axios
         .post(url, params, {headers: {'Content-Type': 'application/json'}})
         .then((response) => {

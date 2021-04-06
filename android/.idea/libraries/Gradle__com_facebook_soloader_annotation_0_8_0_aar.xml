@@ -1,9 +1,10 @@
 <component name="libraryTable">
   <library name="Gradle: com.facebook.soloader:annotation:0.8.0@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/816bcea4814577d15ba8f5fbe2ce9867/jetified-annotation-0.8.0/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/816bcea4814577d15ba8f5fbe2ce9867/jetified-annotation-0.8.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/816bcea4814577d15ba8f5fbe2ce9867/jetified-annotation-0.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b20798433ef712573465ed686a2f5328/jetified-annotation-0.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b7fc564ded9537a20dd40bfe557bacd/jetified-annotation-0.8.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b7fc564ded9537a20dd40bfe557bacd/jetified-annotation-0.8.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b7fc564ded9537a20dd40bfe557bacd/jetified-annotation-0.8.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.soloader/annotation/0.8.0/a2fae398964a73c913cc246c928a32b0ea7bf02d/annotation-0.8.0-javadoc.jar!/" />
